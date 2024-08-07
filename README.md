@@ -1,16 +1,42 @@
-## Hi there 👋
+Hi there 👋, I'm Anthony Vargas
+Welcome to my GitHub profile! I'm a software developer with 7 years of experience in software development, and I love creating innovative and efficient solutions. I am also passionate about learning new skills, traveling, and trying new food. Below, you'll find more about me and my work.
 
-<!--
-**anthony12031/anthony12031** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🔭 I’m currently working on a project using Zustand + React Query for the UI and Fast API plus Microsoft Azure.
+- 🌱 I’m constantly learning and currently focused on improving my skills in React, TypeScript, Vite, React Query, and Zustand.
+- 👨‍💻 I have experience in various domains including backend development, frontend development, database management, and software architecture.
+- ☁️ I am an AWS Developer and Azure Certified, with hands-on experience in cloud computing and services.
+- 💬 Ask me about JavaScript, React, TypeScript, Redux, CSS, HTML, MongoDB, Redis, AWS, and Azure.
+- 📫 How to reach me: tony_jason@hotmail.com
+- 📞 Contact me at: +573046105344
 
-Here are some ideas to get you started:
+## Skills and Expertise
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Languages
+JavaScript
+Python
+
+## Frontend Development
+React
+Redux Toolkit
+React Query
+Zustand
+Vite
+Angular
+Vue
+
+## Backend Development
+Node.js
+Python Fast Api
+Express
+MongoDB
+Redis
+Cloud and DevOps
+AWS (Amazon Web Services) - Certified AWS Developer
+Azure - Azure Certified
+Docker
+Git and GitHub
+CI/CD
+
+## Blog and Articles
+Coming soon
