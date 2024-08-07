@@ -12,31 +12,33 @@ Welcome to my GitHub profile! I'm a software developer with 7 years of experienc
 
 ## Skills and Expertise
 
-Languages
-JavaScript
-Python
+### Languages
+- JavaScript
+- Python
 
-## Frontend Development
-React
-Redux Toolkit
-React Query
-Zustand
-Vite
-Angular
-Vue
+### Frontend Development
+- React
+- Redux Toolkit
+- React Query
+- Zustand
+- Vite
+- Angular
+- Vue
 
-## Backend Development
-Node.js
-Python Fast Api
-Express
-MongoDB
-Redis
-Cloud and DevOps
-AWS (Amazon Web Services) - Certified AWS Developer
-Azure - Azure Certified
-Docker
-Git and GitHub
-CI/CD
+### Backend Development
+- Node.js
+- Python Fast Api
+- Express
+- MongoDB
+- Relational databases
+- Redis
+
+### Cloud and DevOps
+- AWS (Amazon Web Services) - Certified AWS Developer
+- Azure - Azure Certified
+- Docker
+- Git and GitHub
+- CI/CD
 
 ## Blog and Articles
 Coming soon
