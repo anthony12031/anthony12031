@@ -8,7 +8,6 @@ Welcome to my GitHub profile! I'm a software developer with 7 years of experienc
 - ☁️ I am an AWS Developer and Azure Certified, with hands-on experience in cloud computing and services.
 - 💬 Ask me about JavaScript, React, TypeScript, Redux, CSS, HTML, MongoDB, Redis, AWS, and Azure.
 - 📫 How to reach me: tony_jason@hotmail.com
-- 📞 Contact me at: +573046105344
 
 ## Skills and Expertise
 
