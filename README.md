@@ -3,7 +3,7 @@ Welcome to my GitHub profile! I'm a software developer with 7 years of experienc
 
 ## About Me
 - 🔭 I’m currently working on a project using Zustand + React Query for the UI and Fast API plus Microsoft Azure.
-- 🌱 I’m constantly learning and currently focused on improving my skills in React, TypeScript, Vite, React Query, and Zustand.
+- 🌱 I’m constantly learning
 - 👨‍💻 I have experience in various domains including backend development, frontend development, database management, and software architecture.
 - ☁️ I am an AWS Developer and Azure Certified, with hands-on experience in cloud computing and services.
 - 💬 Ask me about JavaScript, React, TypeScript, Redux, CSS, HTML, MongoDB, Redis, AWS, and Azure.
