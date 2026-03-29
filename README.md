@@ -1,5 +1,5 @@
 Hi there 👋, I'm Anthony Vargas
-Welcome to my GitHub profile! I'm a software developer with 7 years of experience in software development, and I love creating innovative and efficient solutions. I am also passionate about learning new skills, traveling, and trying new food. Below, you'll find more about me and my work.
+Welcome to my GitHub profile! I'm a software developer with 9 years of experience in software development, and I love creating innovative and efficient solutions. I am also passionate about learning new skills, traveling, and trying new food. Below, you'll find more about me and my work.
 
 ## About Me
 - 🔭 I’m currently working on a project using Zustand + React Query for the UI and Fast API plus Microsoft Azure.
