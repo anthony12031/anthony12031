@@ -9,6 +9,10 @@ Welcome to my GitHub profile! I'm a software developer with 7 years of experienc
 - 💬 Ask me about JavaScript, React, TypeScript, Redux, CSS, HTML, MongoDB, Redis, AWS, and Azure.
 - 📫 How to reach me: tony_jason@hotmail.com
 
+## AI-driven workflow
+
+[**ai-driven-workflow**](https://github.com/anthony12031/ai-driven-workflow) is a Cursor plugin for language-agnostic AI development. It packages slash commands (`/init-repo`, `/build-feature`, `/design`, `/fix-bug`), reusable skills, subagents, language rules, hooks, and MCP (Figma). Running `install.sh` registers the plugin under `~/.cursor/plugins/local/` and mirrors commands, agents, and skills into your user `~/.cursor/` directory so the same workflows are available in any repository you open.
+
 ## Skills and Expertise
 
 ### Languages
